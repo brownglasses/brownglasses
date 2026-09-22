@@ -4,7 +4,7 @@
   <img src="https://inha.u-folio.com/uport_res/institution/20231019130731924.jpg" alt="인하대학교 로고" width="86" />
 </a>
 
-# 이혁진 / lma17
+# 이혁진
 
 **일상의 불편을, 계속 쓰고 싶은 제품으로 만듭니다.**
 
