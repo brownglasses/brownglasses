@@ -20,7 +20,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/brownglasses/withday-widget-studio">
-        <img src="https://raw.githubusercontent.com/brownglasses/withday-widget-studio/main/Art/AppStore/withday/assets/iphone-06-inline-editing.png" alt="withday 위젯 편집 화면" width="100%" />
+        <img src="https://raw.githubusercontent.com/brownglasses/withday-widget-studio/main/Art/AppStore/withday/iphone/01-hero.png" alt="withday 앱스토어 대표 스크린샷" width="100%" />
       </a>
       <br /><br />
       <strong>withday — Widget Studio</strong><br />
